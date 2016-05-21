@@ -1,6 +1,0 @@
-node:
-  name: ${HOSTNAME}
-network:
-  host: 0.0.0.0
-index:
-  refresh_internal: 5s
