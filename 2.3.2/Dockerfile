@@ -1,4 +1,4 @@
-FROM alpine:3.3
+FROM gliderlabs/alpine:3.3
 MAINTAINER Dave Finster <df@docketbook.io>
 
 RUN adduser elasticsearch -D && \
